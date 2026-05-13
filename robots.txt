@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://ucp.example.com
+Sitemap: https://ucp.example.com/sitemap.xml
